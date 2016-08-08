@@ -1,0 +1,24 @@
+_repo: Kepler_12406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryant, Walter W. (Walter William)
+    alias: Bryant, Walter William
+    gutenberg_agent_id: '4348'
+    url: http://www.gutenberg.org/2009/agents/4348
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Kepler, Johannes, 1571-1630'
+- GITenberg
+title: Kepler
+url: http://www.gutenberg.org/ebooks/12406
